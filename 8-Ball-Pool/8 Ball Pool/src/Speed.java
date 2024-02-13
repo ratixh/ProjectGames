@@ -58,4 +58,5 @@ class Speed {
 		x += Math.cos (theta) * speed;
 		y += Math.sin (theta) * speed;
 	}
-}
+}	
+// Should control the speed
